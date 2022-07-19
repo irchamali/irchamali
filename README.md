@@ -1,14 +1,14 @@
 ## :boy: about me
 
-hello!, my name **Ircham Ali**, i live in Indonesia at Jakarta, a capital city with random people. i like programming and design since 2012, because my lecturer make something magic with his computer, at 2021 work on [UNUSIA](https://unusia.ac.id), and now i still coding for my hobby. more [here](https://raw.githubusercontent.com/slowy07/slowy07/main/slowy.svg)
+Hello! my name **Ircham Ali**, i live in Indonesia at Jakarta, a capital city with random people. I like programming and design since 2012, because my lecturer make something magic with his computer, since 2021 i teach informatics at [UNUSIA](https://unusia.ac.id), and now i still coding for my hobby. more [here](https://pddikti.kemdikbud.go.id/data_dosen/NUU2NERCNjktRDM5Qi00QjRDLTk5QjUtQkZEQzI2NDc0NzYz)
 
-## talk to me 👋
+## talk to me 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bro_irham)
 
 <!--
 **irchamali/irchamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://raw.githubusercontent.com/irchamali/irchamali/main/cvirham.pdf
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
