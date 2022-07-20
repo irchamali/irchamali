@@ -6,7 +6,7 @@ Hello! my name **Ircham Ali**, i live in Indonesia at Jakarta, a capital city wi
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bro_irham)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=irchamali&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=irchamali&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727)](https://github.com/irchamali)
 
 <!--
 **irchamali/irchamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
