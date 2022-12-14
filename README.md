@@ -4,7 +4,7 @@ Hello! my name **Ircham Ali**, i live in Indonesia at Jakarta, a capital city wi
 
 ## talk to me 👋🏻
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bro_irham)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/irchamxyz)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=irchamali&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727)](https://github.com/irchamali)
 
