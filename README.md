@@ -1,12 +1,13 @@
 ## :man_scientist: about me
 
-Hello! my name **Ircham Ali**, i live in Indonesia at Jakarta, a capital city with random people. I like programming and design since 2012, because my lecturer make something magic with his computer, since 2021 i teach informatics at [UNUSIA](https://unusia.ac.id), and now i still coding for my hobby. More info [here](https://pddikti.kemdikbud.go.id/data_dosen/NUU2NERCNjktRDM5Qi00QjRDLTk5QjUtQkZEQzI2NDc0NzYz)
+Hello! my name **Ircham Ali**, i live in Jakarta, a capital city with random people. I like programming and design since 2012, because my lecturer make something magic with his computer, since 2021 i teach informatics at [UNUSIA](https://unusia.ac.id), and now i still coding for my hobby. More info [here](https://pddikti.kemdikbud.go.id/data_dosen/NUU2NERCNjktRDM5Qi00QjRDLTk5QjUtQkZEQzI2NDc0NzYz)
 
 ## talk to me 👋🏻
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/irchamali_)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ircham-ali/)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=irchamali&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727)](https://github.com/irchamali)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irchamali&layout=compact&theme=transparent)
 
 <!--
 **irchamali/irchamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
