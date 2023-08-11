@@ -7,7 +7,7 @@ Hello! my name **Ircham Ali**, i live in Jakarta, a capital city with random peo
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/irchamali_)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ircham-ali/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irchamali&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irchamali&layout=compact&theme=dark)
 
 <!--
 **irchamali/irchamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
