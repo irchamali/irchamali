@@ -1,7 +1,7 @@
 ## :man_scientist: about me
 
-Hello! My name is **Ircham Ali**, and I reside in Jakarta, the capital city of Indonesia, surrounded by diverse individuals. I have had a passion for programming and design since 2012, sparked by witnessing my lecturer perform some "magic" with their computer. Since 2021, I have been an informatics lecturer at [UNUSIA](https://unusia.ac.id), and to this day, I continue to coding as my hobby. 
-More info [click here](https://pddikti.kemdikbud.go.id/data_dosen/NUU2NERCNjktRDM5Qi00QjRDLTk5QjUtQkZEQzI2NDc0NzYz)
+Hello! My name is **Ircham Ali**, and I live in Jakarta. 
+More info [click here](https://scholar.google.co.id/citations?user=qNb0bcQAAAAJ)
 
 ## talk to me 👋🏻
 
