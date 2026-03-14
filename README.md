@@ -3,12 +3,13 @@
 Hello! My name is **Ircham Ali**, and I live in Jakarta. 
 More info [click here](https://scholar.google.co.id/citations?user=qNb0bcQAAAAJ)
 
-## talk to me 👋🏻
+## let's connect 👋🏻
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/irchamali_)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ircham-ali/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Ircham-Ali-2)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irchamali&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irchamali&layout=compact&theme=transparent&langs_count=4&hide=html,css,scss,less,smarty,blade,hack,handlebars,coffeescript)
 
 <!--
 **irchamali/irchamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
