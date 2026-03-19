@@ -1,7 +1,7 @@
 ## :man_scientist: about me
 
 Hello! My name is **Ircham Ali**, and I live in Jakarta. 
-More info [click here](https://scholar.google.co.id/citations?user=qNb0bcQAAAAJ)
+More info [click here](https://irchamali.github.io/)
 
 ## let's connect 👋🏻
 
