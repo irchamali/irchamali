@@ -9,8 +9,6 @@ More info [click here](https://irchamali.github.io/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ircham-ali/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Ircham-Ali-2)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irchamali&layout=compact&theme=transparent&langs_count=4&hide=html,css,scss,less,smarty,blade,hack,handlebars,coffeescript)
-
 <!--
 **irchamali/irchamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://raw.githubusercontent.com/irchamali/irchamali/main/cvirham.pdf
